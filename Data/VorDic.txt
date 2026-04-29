@@ -1,0 +1,29 @@
+[
+    {"id": "LCK", "x": 21727.41, "y": 30948.25, "freq": "112.8","typ":"VOR","DME" : true},
+    {"id": "PFO", "x": 30928.32, "y": 33460.34, "freq": "117.9","typ":"VOR","DME" : true},
+
+    {"id": "NJF", "x": 46429.85, "y": 593.78, "freq": "175.09","typ":"VOR","DME" : true},
+    {"id": "IZO", "x": 45429.75, "y": 3943.24, "freq": "117.53","typ":"VOR","DME" : true},
+
+    {"id": "PER", "x": 16926.94, "y": -20235.67, "freq": "115.43","typ":"VOR","DME" : true},
+
+    {"id": "HME", "x": -7375.45, "y": -31435.42, "freq": "112.20","typ":"VOR","DME" : true},
+
+    {"id": "GVK", "x": -43379.00, "y": -3488.38, "freq": "112.32","typ":"VOR","DME" : true},
+
+    {"id": "SAU", "x": -45779.24, "y": 26447.41, "freq": "115.35","typ":"VOR","DME" : true},
+    {"id": "SAULOC08", "x": -45294, "y": 27478, "freq": "115.5", "typ":"LOC", "ang" : "266.3","DME" : true},
+    {"id": "SAULOC26", "x": -46871, "y": 27580, "freq": "115.56", "typ":"LOC", "ang" : "86.3","DME" : true},
+
+
+    {"id": "RFD", "x": -3575.08, "y": 19748.49, "freq": "113.55","typ":"VOR","DME" : true},
+    {"id": "IRFDloc07R", "x": -2106, "y": 20117, "freq": "115.5", "typ":"LOC", "ang" : "266.3","DME" : true},
+
+    {"id": "MLR", "x": -19076.61, "y": 14200.95, "freq": "114.75","typ":"VOR","DME" : true},
+    {"id": "MLRLOC07", "x": -18661, "y": 14500, "freq": "114.74", "typ":"LOC", "ang" : "246.1","DME" : true},
+    {"id": "MLRLOC25", "x": -20126, "y": 15152, "freq": "114.73", "typ":"LOC", "ang" : "66.2","DME" : true},
+
+    {"id": "BLA", "x": -7675.48, "y": 14619.64, "freq": "117.45","typ":"VOR","DME" : true},
+    {"id": "GRY", "x": -15876.29, "y": 22574.60, "freq": "111.90","typ":"VOR","DME" : true},
+    {"id": "TRN", "x": -2174.94, "y": 29168.85, "freq": "113.10","typ":"VOR","DME" : true}
+]
